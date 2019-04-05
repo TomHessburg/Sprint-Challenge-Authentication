@@ -38,7 +38,7 @@ Demonstrate your understanding of this week's concepts by answering the followin
 
 1. What does bcrypt do to slow down attackers?
 
-        i mean... it hashes the password so they cant steal it like we showed above? It uses something called a secret which we create and use to hash that only WE know.
+        i mean... it hashes the password so they cant steal it like we showed above? 
 
 1. What are the three parts of the JSON Web Token?
 
