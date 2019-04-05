@@ -38,7 +38,7 @@ Demonstrate your understanding of this week's concepts by answering the followin
 
 1. What does bcrypt do to slow down attackers?
 
-        i mean... it hashes the password so they cant steal it like we showed above? 
+        i mean... it hashes the password so they cant steal it like we showed above? Hashing is different than encryption in the sense that it cant be reversed. This is what bcrypt does for us. Its a 1 way street.
 
 1. What are the three parts of the JSON Web Token?
 
